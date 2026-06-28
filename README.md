@@ -81,7 +81,7 @@ bun install
 bun run dev
 ```
 
-Open [http://localhost:3000](https://preview-9001-morphvm-zdheb0ev.http.cloud.morph.so), connect your Freighter wallet, and start creating vesting grants.
+Open [https://preview-9001-morphvm-zdheb0ev.http.cloud.morph.so](https://preview-9001-morphvm-zdheb0ev.http.cloud.morph.so), connect your Freighter wallet, and start creating vesting grants.
 
 ## Development
 
